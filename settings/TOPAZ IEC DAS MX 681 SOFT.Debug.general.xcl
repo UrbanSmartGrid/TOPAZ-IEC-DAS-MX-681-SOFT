@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.5\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.5\arm\bin\armjlink2.dll" 
+
+"D:\PROJECTS\PLC\TOPAZ IEC DAS MX 681 SOFT\Debug\Exe\TOPAZ IEC DAS MX 681 SOFT.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.5\arm\bin\armbat.dll" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.5\arm\config\flashloader\Milandr\FlashMDR32F1x.board" 
+
+
+
+
